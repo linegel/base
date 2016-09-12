@@ -13,8 +13,6 @@ iron:router
 themeteorchef:jquery-validation
 twbs:bootstrap
 browser-policy@1.0.9
-
-
 themeteorchef:bert
 meteorhacks:ssr
 fourseven:scss
